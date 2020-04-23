@@ -1,15 +1,15 @@
-,country,Average_Speed,country_index
-0,Australia,7.9,1
-1,China,3.9,2
-2,Hong Kong,15.9,3
-3,India,1.9,4
-4,Indonesia,3.0,5
-5,Japan,15.0,6
-6,Malaysia,4.0,7
-7,Newzealand,8.0,8
-8,Singapore,13.0,9
-9,South Korea,21.0,10
-10,Srilanka,4.0,11
-11,Taiwan,9.9,12
-12,Thailand,8.0,13
-13,Vietnam,3.5,14
+country,Average_Speed,country_index
+Australia,7.9,1
+China,3.9,2
+Hong Kong,15.9,3
+India,1.9,4
+Indonesia,3.0,5
+Japan,15.0,6
+Malaysia,4.0,7
+Newzealand,8.0,8
+Singapore,13.0,9
+South Korea,21.0,10
+Srilanka,4.0,11
+Taiwan,9.9,12
+Thailand,8.0,13
+Vietnam,3.5,14
