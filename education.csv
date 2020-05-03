@@ -1,13 +1,13 @@
-,education,Party,Aproval
-0,High School Grad or less,Rep,0.6
-1,Some College Degree,Rep,0.4
-2,College Grad,Rep,0.3
-3,Postgraduate Study,Rep,0.5
-4,High School Grad or less,Dem,0.35
-5,Some College Degree,Dem,0.45
-6,College Grad,Dem,0.5
-7,Postgraduate Study,Dem,0.38
-8,High School Grad or less,Others,0.05
-9,Some College Degree,Others,0.15
-10,College Grad,Others,0.2
-11,Postgraduate Study,Others,0.12
+education,Party,Aproval
+High School Grad or less,Rep,0.6
+Some College Degree,Rep,0.4
+College Grad,Rep,0.3
+Postgraduate Study,Rep,0.5
+High School Grad or less,Dem,0.35
+Some College Degree,Dem,0.45
+College Grad,Dem,0.5
+Postgraduate Study,Dem,0.38
+High School Grad or less,Others,0.05
+Some College Degree,Others,0.15
+College Grad,Others,0.2
+Postgraduate Study,Others,0.12
